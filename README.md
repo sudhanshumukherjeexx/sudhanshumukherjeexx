@@ -8,6 +8,3 @@
 ##### 🎯 #100DaysofCode.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudhanshumukherjeexx&show_icons=true&theme=radical)
 
-<iframe src="https://giphy.com/embed/vxWq52dFPthnKjRbLY" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Siemens--siemens-web-summit-2020-vxWq52dFPthnKjRbLY">via GIPHY</a></p>
-
-<img src="https://giphy.com/gifs/Siemens--siemens-web-summit-2020-vxWq52dFPthnKjRbLY.gif" width="30px">
