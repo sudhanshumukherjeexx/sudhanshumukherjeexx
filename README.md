@@ -6,5 +6,6 @@
 ##### 🤖 I'm motivated member of the tech community. 
 ##### 🤩 Big fan of p5js, threejs, and creative coding communities. 
 ##### 🎯 #100DaysofCode.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudhanshumukherjeexx&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudhanshumukherjeexx&show_icons=true&theme=radical)
 
+ -->
