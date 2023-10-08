@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.datascienceportfol.io/sudhanshumukherjee">
-    <img src="https://github.com/sudhanshumukherjeexx/sudhanshumukherjeexx/blob/main/portfolio.png" alt="Portfolio", width="32" height="32">
+    <img src="https://github.com/sudhanshumukherjeexx/sudhanshumukherjeexx/blob/main/1img.png" alt="Portfolio", width="40" height="40">
     <br>
     <strong>My Portfolio</strong>
   </a>
