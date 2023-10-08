@@ -10,8 +10,29 @@
 
 <p align="center">
   <a href="https://www.datascienceportfol.io/sudhanshumukherjee">
-    <img src="https://github.com/sudhanshumukherjeexx/sudhanshumukherjeexx/blob/main/1img.png" alt="Portfolio", width="80" height="80">
+    <img src="https://github.com/sudhanshumukherjeexx/sudhanshumukherjeexx/blob/main/portfolio.png" alt="Portfolio", width="32" height="32">
     <br>
     <strong>My Portfolio</strong>
   </a>
 </p>
+
+<!-- OpenSource Project Section -->
+<div align="center">
+  <img src="https://github.com/sudhanshumukherjeexx/sudhanshumukherjeexx/blob/main/code.png" alt="Project Logo" width="100">
+  <h2>Prepup</h2>
+  <p>Prepup is a free open-source package that lets you inspect, explore, visualize, and perform pre-processing tasks on datasets in your windows/macOS terminal.</p>
+  
+  <!-- Project Stats -->
+  <p>
+    <img src="https://img.shields.io/github/stars/sudhanshumukherjeexx/prepup?style=flat-square" alt="GitHub stars">
+    <img src="https://img.shields.io/github/forks/sudhanshumukherjeexx/prepup?style=flat-square" alt="GitHub forks">
+    <img src="https://img.shields.io/github/issues/sudhanshumukherjeexx/prepup?style=flat-square" alt="GitHub issues">
+  </p>
+  
+  <!-- Project Links -->
+  <p>
+    <a href="https://github.com/sudhanshumukherjeexx/prepup">View on GitHub</a>
+    |
+<!--     <a href="https://your-project-website.com">Website</a> -->
+  </p>
+</div>
