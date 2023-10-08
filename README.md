@@ -19,8 +19,8 @@
 
 <p align="center">
   <a href="https://www.datascienceportfol.io/sudhanshumukherjee">
-    <img src="https://your-icon-image-url.com/icon.png" alt="Portfolio">
+    <img src="https://github.com/sudhanshumukherjeexx/sudhanshumukherjeexx/blob/main/portfolio.png" alt="Portfolio">
     <br>
-    <strong>Check out my Portfolio</strong>
+    <strong>My Portfolio</strong>
   </a>
 </p>
