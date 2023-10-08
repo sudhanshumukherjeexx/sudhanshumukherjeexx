@@ -13,3 +13,19 @@
     My Portfolio
   </a>
 </p>
+
+<p>
+  <a href="https://www.datascienceportfol.io/sudhanshumukherjee" target="_blank" rel="noopener noreferrer" style="
+    display: inline-block;
+    color: #FFE5AD;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+    font-size: 30px;
+  ">
+    <i class="fa fa-external-link"></i> Check out my Portfolio
+  </a>
+</p>
+
