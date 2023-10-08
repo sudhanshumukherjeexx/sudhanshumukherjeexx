@@ -18,6 +18,7 @@
 
 <!-- OpenSource Project Section -->
 <div>
+  <h1>My Open Source Projects</h1>
   <h2>Prepup</h2>
   <img src="https://github.com/sudhanshumukherjeexx/sudhanshumukherjeexx/blob/main/code.png" alt="Project Logo" width="100">
   
@@ -33,7 +34,7 @@
   <!-- Project Links -->
   <p>
     <a href="https://github.com/sudhanshumukherjeexx/prepup">View on GitHub</a>
-    |
+    
 <!--     <a href="https://your-project-website.com">Website</a> -->
   </p>
 </div>
