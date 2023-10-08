@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.datascienceportfol.io/sudhanshumukherjee" target="_blank" rel="noopener noreferrer" style="display: inline-block;background-color: #4CAF50;color:#FFE5AD;font-weight: bold;text-decoration: none;padding: 20px 40px;border-radius: 10px;transition: background-color 0.3s ease;font-size:20px">
+  <a href="https://www.datascienceportfol.io/sudhanshumukherjee" target="_blank" rel="noopener noreferrer" style="display: inline-block;background-color: #4CAF50;color:#FFE5AD;font-weight: bold;text-decoration: none;padding: 20px 40px;border-radius: 10px;transition: background-color 0.3s ease;font-size:30px">
     My Portfolio
   </a>
 </p>
