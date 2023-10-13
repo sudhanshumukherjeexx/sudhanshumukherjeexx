@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/sudhanshumukherjeexx">
-    <img src="https://github.com/sudhanshumukherjeexx/sudhanshumukherjeexx/blob/main/Purple%20Gradient%20Digital%20Marketing%20LinkedIn%20Banner.png" alt="Sudhanshu Mukherjee" /></a>
+    <img src="https://github.com/sudhanshumukherjeexx/sudhanshumukherjeexx/blob/main/sudhanshu_mukherjee.png" alt="Sudhanshu Mukherjee" /></a>
 </p>
 
 <p align="center">
