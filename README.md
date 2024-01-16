@@ -19,21 +19,21 @@
 <!-- OpenSource Project Section -->
 <div>
   <h1>My Open Source Projects</h1>
-  <h2>Prepup</h2>
+  <h2>Prepup Linux</h2>
   <img src="https://github.com/sudhanshumukherjeexx/sudhanshumukherjeexx/blob/main/code.png" alt="Project Logo" width="100">
   
-  <p>Prepup is a free open-source package that lets you inspect, explore, visualize, and perform pre-processing tasks on datasets in your windows/macOS terminal.</p>
+  <p>Prepup Linux is a free open-source package that lets you inspect, explore, visualize, and perform pre-processing tasks on datasets in your windows/macOS terminal.</p>
   
   <!-- Project Stats -->
   <p>
-    <img src="https://img.shields.io/github/stars/sudhanshumukherjeexx/prepup?style=flat-square" alt="GitHub stars">
-    <img src="https://img.shields.io/github/forks/sudhanshumukherjeexx/prepup?style=flat-square" alt="GitHub forks">
-    <img src="https://img.shields.io/github/issues/sudhanshumukherjeexx/prepup?style=flat-square" alt="GitHub issues">
+    <img src="https://img.shields.io/github/stars/sudhanshumukherjeexx/prepup-linux?style=flat-square" alt="GitHub stars">
+    <img src="https://img.shields.io/github/forks/sudhanshumukherjeexx/prepup-linux?style=flat-square" alt="GitHub forks">
+    <img src="https://img.shields.io/github/issues/sudhanshumukherjeexx/prepup-linux?style=flat-square" alt="GitHub issues">
   </p>
   
   <!-- Project Links -->
   <p>
-    <a href="https://github.com/sudhanshumukherjeexx/prepup">View on GitHub</a>
+    <a href="https://github.com/sudhanshumukherjeexx/prepup-linux">View on GitHub</a>
     
 <!--     <a href="https://your-project-website.com">Website</a> -->
   </p>
