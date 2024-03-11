@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sudhanshumukherjeexx@gmail.com**
 
-- 📄 Know about my experiences [https://sudhanshu-resume.tiiny.site](https://sudhanshu-resume.tiiny.site)
+<!-- - 📄 Know about my experiences [https://sudhanshu-resume.tiiny.site](https://sudhanshu-resume.tiiny.site)-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
