@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://hustledata.substack.com/](https://hustledata.substack.com/)
 
-- 💬 Ask me about **Data Science, Machine Learning and Langchain**
+- 💬 Ask me about **Data Science, Machine Learning and AI**
 
 - 📫 How to reach me **sudhanshumukherjeexx@gmail.com**
 
