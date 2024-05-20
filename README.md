@@ -16,8 +16,10 @@
 - 📫 How to reach me **sudhanshumukherjeexx@gmail.com**
 
 <!-- - 📄 Know about my experiences [https://sudhanshu-resume.tiiny.site](https://sudhanshu-resume.tiiny.site)-->
-<h3 align="left">Notable Project:</h3>
-- ⚽ [Soccer Analytics](https://socceranalytics.streamlit.app/) 
+
+<h3 align="left">Notable Projects:</h3>
+
+- ⚽ Soccer Analytics using LaLiga Data [View Dashboard](https://socceranalytics.streamlit.app/)
 
 
 <h3 align="left">Connect with me:</h3>
