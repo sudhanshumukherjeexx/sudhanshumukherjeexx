@@ -3,17 +3,15 @@
 
 - 🔭 I’m currently building [Prepup-Linux](https://github.com/sudhanshumukherjeexx/prepup-linux)
 
-- 🌱 I’m currently learning **AWS Cloud, Langchain and LLM stack**
+- 👯 I’m always looking to collaborate on projects at the intersection of **Machine Learning, Deep Learning and Generative AI**
 
-- 👯 I’m looking to collaborate on **Machine Learning**
-
-- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/sudhanshumukherjee](https://www.datascienceportfol.io/sudhanshumukherjee)
+- 👨‍💻 All of my projects are available at [https://www.sudhanshumukherjee.com](https://www.sudhanshumukherjee.com)
 
 - 📝 I regularly write articles on [https://hustledata.substack.com/](https://hustledata.substack.com/)
 
 - 💬 Ask me about **Data Science, Machine Learning and AI**
 
-- 📫 How to reach me **sudhanshumukherjeexx@gmail.com**
+- 📫 How to reach me **sud@hustledata.io**
 
 <!-- - 📄 Know about my experiences [https://sudhanshu-resume.tiiny.site](https://sudhanshu-resume.tiiny.site)-->
 
