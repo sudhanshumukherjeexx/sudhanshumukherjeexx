@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Mukherjee</h1>
 <h3 align="center">A passionate Data Scientist from Boston, United States.</h3>
 
-- 🔭 I’m currently building [Prepup-Linux](https://github.com/sudhanshumukherjeexx/prepup-linux)
+- 🔭 I’m currently building [Prepup-Linux](https://pypi.org/project/prepup-linux/)
 
 - 👯 I’m always looking to collaborate on projects at the intersection of **Machine Learning, Deep Learning and Generative AI**
 
