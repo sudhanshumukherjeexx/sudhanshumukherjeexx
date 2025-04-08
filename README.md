@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Mukherjee</h1>
 <h3 align="center">A passionate Data Scientist from Boston, United States.</h3>
 
-- 🔭 I’m currently building [Prepup-Linux](https://github.com/sudhanshumukherjeexx/prepup-linux)
+- 🔭 I maintain [Prepup-Linux](https://github.com/sudhanshumukherjeexx/prepup-linux)
 
 - 👯 I’m always looking to collaborate on projects at the intersection of **Machine Learning, Deep Learning and Generative AI**
 
 - 👨‍💻 All of my projects are available at [https://www.sudhanshumukherjee.com](https://www.sudhanshumukherjee.com)
 
-- 📝 I regularly write articles on [https://hustledata.substack.com/](https://hustledata.substack.com/)
+- 📝 I sometimes write articles on [https://hustledata.substack.com/](https://hustledata.substack.com/)
 
-- 💬 Ask me about **Data Science, Machine Learning and AI**
-
-- 📫 How to reach me **sud@hustledata.io**
+- 📫 How to reach me **sudhanshumukherjeexx@gmail.com**
 
 <!-- - 📄 Know about my experiences [https://sudhanshu-resume.tiiny.site](https://sudhanshu-resume.tiiny.site)-->
 
 <h3 align="left">Notable Projects:</h3>
 
+- 🪐 Currently building: Rapid Insights Data Engine (Beta Testing)
+- 💻 Check out my opensource python package [Prepup-Linux](https://github.com/sudhanshumukherjeexx/prepup-linux)
 - ⚽ Soccer Analytics using LaLiga Data [View Dashboard](https://socceranalytics.streamlit.app/)
 
 
