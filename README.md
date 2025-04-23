@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Mukherjee</h1>
 <h3 align="center">A passionate Data Scientist from Boston, United States.</h3>
 
-- 🔭 I maintain [Prepup-Linux](https://github.com/sudhanshumukherjeexx/prepup-linux)
+- 🔭 Created and maintain [Prepup-Linux](https://github.com/sudhanshumukherjeexx/prepup-linux): A terminal based python library that lets you perform data preprocessing right from the terminal and without writing a single line of code.
 
 - 👯 I’m always looking to collaborate on projects at the intersection of **Machine Learning, Deep Learning and Generative AI**
 
@@ -9,7 +9,7 @@
 
 - 📝 I sometimes write articles on [https://hustledata.substack.com/](https://hustledata.substack.com/)
 
-- 📫 How to reach me **sudhanshumukherjeexx@gmail.com**
+- 📫 **sudhanshumukherjeexx@gmail.com**
 
 <!-- - 📄 Know about my experiences [https://sudhanshu-resume.tiiny.site](https://sudhanshu-resume.tiiny.site)-->
 
