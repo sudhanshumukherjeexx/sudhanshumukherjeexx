@@ -3,7 +3,7 @@
 
 - 🔭 Created and maintain [Prepup-Linux](https://github.com/sudhanshumukherjeexx/prepup-linux): A terminal based python library that lets you perform data preprocessing right from the terminal and without writing a single line of code.
 
-- 🚀 I’m always looking to collaborate on projects at the intersection of **Machine Learning, Deep Learning and Generative AI**
+- 🚀 I’m always looking to collaborate on projects at the intersection of **Machine Learning, Deep Learning and GenerativeAI**
 
 - 👨‍💻 All of my projects are available at [https://www.sudhanshumukherjee.com](https://www.sudhanshumukherjee.com)
 
