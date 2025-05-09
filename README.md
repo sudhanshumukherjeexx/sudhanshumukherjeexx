@@ -1,30 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Mukherjee</h1>
-<h3 align="center">A passionate Data Scientist from Boston, United States.</h3>
 
-- 🔭 Created and maintain [Prepup-Linux](https://github.com/sudhanshumukherjeexx/prepup-linux): A terminal based python library that lets you perform data preprocessing right from the terminal and without writing a single line of code.
-
-- 🚀 I’m always looking to collaborate on projects at the intersection of **Machine Learning, Deep Learning and GenerativeAI**
-
-- 👨‍💻 All of my projects are available at [https://www.sudhanshumukherjee.com](https://www.sudhanshumukherjee.com)
-
-- 📝 I sometimes write articles on [https://hustledata.substack.com/](https://hustledata.substack.com/)
-
-- 📫 **sudhanshumukherjeexx@gmail.com**
-
-<!-- - 📄 Know about my experiences [https://sudhanshu-resume.tiiny.site](https://sudhanshu-resume.tiiny.site)-->
-
-<h3 align="left">Notable Projects:</h3>
-
-- 🪐 Currently building: Rapid Insights Data Engine (Beta Testing)
-- 💻 Check out my opensource python package [Prepup-Linux](https://github.com/sudhanshumukherjeexx/prepup-linux)
-- ⚽ Soccer Analytics using LaLiga Data [View Dashboard](https://socceranalytics.streamlit.app/)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sudhanshumukherjeexx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudhanshumukherjeexx" height="30" width="40" /></a>
-<a href="https://kaggle.com/senseiwhocodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="senseiwhocodes" height="30" width="40" /></a>
-</p>
+- 📦 [Checkout RIDE-CLI](https://github.com/sudhanshumukherjeexx/ride-cli): A terminal based Python CLI tool that lets you explore and analyze datasets from your terminal. No Coding Required.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
