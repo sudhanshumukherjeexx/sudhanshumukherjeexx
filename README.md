@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Mukherjee</h1>
 
-- 📦 [Checkout RIDE-CLI](https://github.com/sudhanshumukherjeexx/ride-cli): A terminal based Python CLI tool that lets you explore and analyze datasets from your terminal. No Coding Required.
+### Stuff I'm proud of
+- 💻 [Checkout RIDE-CLI](https://github.com/sudhanshumukherjeexx/ride-cli): A terminal based Python CLI tool that lets you explore and analyze datasets from your terminal. No Coding Required.
+- 🔥 [Checkout Deep Learning Architecture comparison on CIFAR100](https://github.com/sudhanshumukherjeexx/deep-learning-architecture-comparison-on-CIFAR100/): Comparitive analysis of 14 deep learning architectures on the CIFAR-100 dataset, evaluating performance, efficiency, and training characteristics across traditional CNNs, modern architectures, Vision Transformers, and mobile-optimized models.
+- 🚀 [Checkout Pytorch Playground](https://github.com/sudhanshumukherjeexx/PyTorch-Playground): PyTorch Playground is a repository dedicated to showcasing a wide array of PyTorch concepts and operations. It contains hands-on tutorials, code examples, and best practices aimed at helping you master PyTorch from the ground up.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
