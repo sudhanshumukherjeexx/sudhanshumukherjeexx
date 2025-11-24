@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Mukherjee</h1>
 
-### Please checkout the `Stuff I'm proud of`:
+### Recent work:
 - 📄 [RAG System - Document Summarization and Self-Corrected Question Answering](https://github.com/sudhanshumukherjeexx/mutiple-document-rag-system): A production-ready Retrieval-Augmented Generation (RAG) system with document summarization capabilities and true self-correction mechanisms.
 - 💻 [RIDE-CLI](https://github.com/sudhanshumukherjeexx/ride-cli): A terminal based Python CLI tool that lets you explore and analyze datasets from your terminal. No Coding Required.
 - 🔥 [Deep Learning Architecture comparison on CIFAR100](https://github.com/sudhanshumukherjeexx/deep-learning-architecture-comparison-on-CIFAR100/): Comparitive analysis of 14 deep learning architectures on the CIFAR-100 dataset, evaluating performance, efficiency, and training characteristics across traditional CNNs, modern architectures, Vision Transformers, and mobile-optimized models.
