@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Mukherjee</h1>
 
 ### Recent work:
+- [🔥 RI2 – Rapid Insights Data Engine | React, TypeScript, Pyodide (WASM), pandas](https://github.com/sudhanshumukherjeexx/ri2): Built a serverless, no-code browser toolkit for cleaning, feature engineering, visualizing (15+ chart types), and statistically analyzing tabular data; runs the full pandas/NumPy/SciPy/Scikit-Learn stack client-side via Pyodide/WebAssembly with no backend, so data never leaves the user’s tab, and deploys as static files to GitHub
+- [📄 Tiny Language Model on TinyStories | PyTorch, Transformers, Python](https://github.com/sudhanshumukherjeexx/tiny-language-models): Built and trained a small GPT-style transformer language model from scratch on the TinyStories dataset, walking through tokenization, the training loop, and text generation to demonstrate end-to-end how LLMs are pretrained at small scale.
 - 📄 [RAG System - Document Summarization and Self-Corrected Question Answering](https://github.com/sudhanshumukherjeexx/mutiple-document-rag-system): A production-ready Retrieval-Augmented Generation (RAG) system with document summarization capabilities and true self-correction mechanisms.
 - [Multimodal Medical Vision Question Answer with LLaVA Fine-Tuning](https://colab.research.google.com/drive/1IYagJe_EAu6_iaw1I0S3CgOp2hqubw06?usp=sharing): Fine-tuned 7B vision and language model (LLaVA-1.5-7B) using Low-Rank Adaptation (LoRA) for radiology question answering, custom token-level F1 evaluation, and Hugging Face Hub deployment
 - 💻 [RIDE-CLI](https://github.com/sudhanshumukherjeexx/ride-cli): A terminal based Python CLI tool that lets you explore and analyze datasets from your terminal. No Coding Required.
